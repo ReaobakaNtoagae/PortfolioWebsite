@@ -1,7 +1,5 @@
 # 👩‍💻 Reaobaka Ntoagae - Portfolio Website
 
-![Portfolio Preview](profilepic1.jpeg)
-
 A modern, feminine-coded portfolio website showcasing my journey as a Software Engineer. Built with love, creativity, and a touch of sparkle ✨
 
 ## 🌸 Features
